@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'The Iceberg',
-  author: 'Gilbert Goh',
-  headerTitle: 'The Iceberg',
+  title: 'Icing',
+  author: 'Gilbert',
+  headerTitle: 'Icing',
   description: 'All my stuff',
   language: 'en-gb',
   theme: 'system', // system, dark or light
