@@ -9,4 +9,4 @@ twitter: https://twitter.com/icey85
 github: https://github.com/ic1y
 ---
 
-Gilbert is a secondary school student living in Singapore.
+Hi, I'm Gilbert, a secondary school student living in Singapore.
