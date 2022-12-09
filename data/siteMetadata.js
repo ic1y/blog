@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Icing',
   author: 'Gilbert',
   headerTitle: 'Icing',
-  description: 'All my stuff',
+  description: "All of Gilbert's stuff",
   language: 'en-gb',
   theme: 'system', // system, dark or light
   siteUrl: 'https://icing.vercel.app',
