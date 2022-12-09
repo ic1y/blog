@@ -5,11 +5,11 @@ const siteMetadata = {
   description: 'All my stuff',
   language: 'en-gb',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://icey.vercel.app',
+  siteUrl: 'https://icing.vercel.app',
   siteRepo: 'https://github.com/ic1y/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/twitter-card.jpg',
   email: 'ggohnchs@gmail.com',
   github: 'https://github.com/ic1y',
   twitter: 'https://twitter.com/icey85',
