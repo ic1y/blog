@@ -7,3 +7,7 @@ summary: My first post!!!
 ---
 
 Hi!!! It's my first post! Yes!
+
+Test image:
+
+![Maple leaves](/static/images/canada/maple.jpg)
