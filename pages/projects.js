@@ -16,7 +16,7 @@ export default function Projects() {
             The things I've been working on, or have worked on.
           </p>
         </div>
-        <div className="container py-12">
+        <div className="container py-8">
           <div className="-m-4 flex flex-wrap">
             {projectsData.map((d) => (
               <Card
