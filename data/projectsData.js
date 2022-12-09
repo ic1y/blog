@@ -1,19 +1,15 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'LeMoney - Manage Your Cash',
+    description: `LeMoney is a powerful and wondrous budgeting iOS app helping people save money. This app was made under Singapore's IMDA Swift Accelerator Programme of 2022, along with teammates Jing Xian, Regina and Dishita.`,
+    imgSrc: '/static/images/lemon.jpg',
+    href: 'https://apps.apple.com/us/app/lemoney-manage-your-cash/id6444732123',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Youtube Web Audio Player',
+    description: `Save data as you listen to youtube music videos, without video and without ads. Playlist support coming soon.`,
+    imgSrc: '/static/images/headphones.jpg',
+    href: 'https://yt-audio-player.onrender.com/',
   },
 ]
 
