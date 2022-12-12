@@ -25,7 +25,7 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        sans: ['Montserrat', ...defaultTheme.fontFamily.sans],
+        sans: [...defaultTheme.fontFamily.sans],
       },
       colors: {
         primary: colors.cyan,

@@ -13,4 +13,4 @@ github: https://github.com/ic1y
 
 Hi, I'm Gilbert. I'm a secondary school student in Singapore who does quite a bit of tinkering in programming (of which I have an keen interest).
 
-Programming aside, in my leisure time I like to play gacha games and sleep around.
+Programming aside, in my leisure time I like to play gacha games and sleep around. I also read my fair share of manga.
