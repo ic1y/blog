@@ -28,7 +28,7 @@ module.exports = {
         sans: [...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: colors.cyan,
+        primary: colors.blue,
         gray: colors.neutral,
       },
       typography: (theme) => ({
