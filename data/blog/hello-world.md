@@ -10,4 +10,4 @@ Hi!!! It's my first post! Yes!
 
 Test image:
 
-![Maple leaves](/static/images/canada/maple.jpg)
+![Ice Bear with an axe looking at the opened fridge](/static/images/icebearwithaxe.webp)
