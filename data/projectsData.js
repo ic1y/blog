@@ -6,6 +6,12 @@ const projectsData = [
     href: 'https://apps.apple.com/us/app/lemoney-manage-your-cash/id6444732123',
   },
   {
+    title: 'Currenshi',
+    description: `Currenshi is a currency converter made by me in vanilla JS, using the free exchangerate.host api.`,
+    imgSrc: '/static/images/stocks.jpg',
+    href: 'https://currenshi.vercel.app/',
+  },
+  {
     title: 'Youtube Web Audio Player',
     description: `Save data as you listen to youtube music videos, without video and without ads. Playlist support coming soon.`,
     imgSrc: '/static/images/headphones.jpg',
