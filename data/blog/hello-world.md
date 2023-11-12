@@ -6,8 +6,6 @@ draft: false
 summary: My first post!!!
 ---
 
-Hi!!! It's my first post! Yes!
-
-Test image:
+Hi!!! It's my first post!
 
 ![Ice Bear with an axe looking at the opened fridge](/static/images/icebearwithaxe.webp)
