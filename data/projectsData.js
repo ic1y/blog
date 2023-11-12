@@ -21,13 +21,13 @@ const projectsData = [
     title: 'Stationæry',
     description: `Stationæry is a quick and light e-dictionary for the English language on the Web, with word data sourced from Wiktionary. Additional functions include page printing and word history.`,
     imgSrc: '/static/images/dictionary.jpg',
-    href: 'https://apps.apple.com/us/app/lemoney-manage-your-cash/id6444732123',
+    href: 'https://stationaery.vercel.app/',
   },
   {
     title: 'Spella',
     description: `A spelling game. Score points by listening to a word and then typing it correctly. Uses inbuilt device speech synthesis to read word.`,
     imgSrc: '/static/images/word.jpg',
-    href: 'https://apps.apple.com/us/app/lemoney-manage-your-cash/id6444732123',
+    href: 'https://spella.vercel.app/',
   },
   {
     title: 'Well Wishes Message Customisation',
