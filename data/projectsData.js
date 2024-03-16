@@ -1,13 +1,13 @@
 const projectsData = [
   {
     title: 'LeMoney - Manage Your Cash',
-    description: `LeMoney is a powerful budgeting app helping people save money. This app was made as part of 2022 IMDA Swift Accelerator Programme, along with teammates Jing Xian, Regina and Dishita.`,
+    description: `Budgeting app for students. Made with teammates Jing Xian, Regina and Dishita in the 2022 Swift Accelerator Programme.`,
     imgSrc: '/static/images/lemon.jpg',
     href: 'https://apps.apple.com/us/app/lemoney-manage-your-cash/id6444732123',
   },
   {
     title: 'Earth Laundress',
-    description: `Earth Laundress is an educational laundry app with a focus on environmentally sustainable practices. It has a compilation of laundry guides, unit convertors, and a laundry to-do checklist. Won the 2023 Swift Student Challenge award.`,
+    description: `Educational app teaching environmentally sustainable laundry practices with a compilation of laundry guides, checklists and unit convertors. Won the 2023 WWDC Swift Student Challenge.`,
     imgSrc: '/static/images/laundress.png',
     href: 'https://github.com/ic1y/earthlaundress',
   },
@@ -19,28 +19,34 @@ const projectsData = [
   },
   {
     title: 'Stationæry',
-    description: `Stationæry is a quick and light e-dictionary for the English language on the Web, with word data sourced from Wiktionary. Additional functions include page printing and word history.`,
+    description: `A powerful e-dictionary with print and history (uses localstorage) functions.`,
     imgSrc: '/static/images/dictionary.jpg',
     href: 'https://stationaery.vercel.app/',
   },
   {
     title: 'Spella',
-    description: `A spelling game. Score points by listening to a word and then typing it correctly. Uses inbuilt device speech synthesis to read word.`,
+    description: `A spelling game. Uses inbuilt device speech synthesis to read words. Customisation of voice, pitch, and speech rate available.`,
     imgSrc: '/static/images/word.jpg',
     href: 'https://spella.vercel.app/',
   },
   {
     title: 'Well Wishes Message Customisation',
-    description: `Do you like sending well wishes messages your friends and family? This is a perfect fit for those who want to personalise such heartfelt messages. You can customise not only the image, but the text and its font and colour.`,
+    description: `A perfect fit for those who want to personalise heartfelt messages to family and friends. You can customise images, font colour and font size.`,
     imgSrc: '/static/images/zaoan.png',
     href: 'https://zaoan.vercel.app/',
   },
   {
-    title: 'Currenshi',
-    description: `Currenshi is a currency converter made by me in vanilla JS, using the free exchangerate.host api.`,
-    imgSrc: '/static/images/stocks.jpg',
-    href: 'https://currenshi.vercel.app/',
+    title: 'IceTube',
+    imgSrc: '/static/images/projector.jpg',
+    description: `Watch your favourite movies and tv shows 🍿. Uses Vidsrc and IMDB API.`,
+    href: 'https://icetube.vercel.app/',
   },
+  // {
+  //   title: 'Currenshi',
+  //   description: `Currenshi is a currency converter made by me in vanilla JS, using the free exchangerate.host api.`,
+  //   imgSrc: '/static/images/stocks.jpg',
+  //   href: 'https://currenshi.vercel.app/',
+  // },
   // {
   //   title: 'Youtube Web Audio Player',
   //   description: `Save data as you listen to youtube music videos, without video and without ads. Playlist support coming soon.`,
